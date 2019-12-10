@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "455644511120",
+    "firebase_url": "https://digital-3d127.firebaseio.com",
+    "project_id": "digital-3d127",
+    "storage_bucket": "digital-3d127.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455644511120:android:9afbbc56b00d8558c85115",
+        "android_client_info": {
+          "package_name": "com.example.smurilloo.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455644511120-nt7u0qjfv90isf5303ua1nm8a9irabch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smurilloo.login",
+            "certificate_hash": "8eb5a97768db607d8800a4385630e636a4a7332b"
+          }
+        },
+        {
+          "client_id": "455644511120-8ndd6to6a148hded4d972kdlh5n6fuls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaU5ZIjmOX8iOECxsuuLhPoAeC5xH83Kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455644511120-8ndd6to6a148hded4d972kdlh5n6fuls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
